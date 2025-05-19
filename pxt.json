@@ -1,0 +1,30 @@
+{
+    "name": "Blast the Rocks",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.0.14",
+        "tag": "v1.0.14",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/1460ac1c88950799eb51c9c297588c8abdc91077",
+        "target": "2.0.56",
+        "pxt": "6.1.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
